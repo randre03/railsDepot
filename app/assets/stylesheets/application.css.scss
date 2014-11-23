@@ -20,8 +20,8 @@
   color: #282; 
   text-align: center;
 
-img {
-  float: left;
+  img {
+    float: left;
   }
 }
 
@@ -40,6 +40,8 @@ img {
   #main {
     margin-left: 17em;
     padding: 1em;
+    background: white;
+  } 
   
   #side {
     float: left;
@@ -59,3 +61,4 @@ img {
     }
   }
 }
+
